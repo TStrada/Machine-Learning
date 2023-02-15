@@ -4,25 +4,22 @@
   <h6 align="center">a Data Management Project</h6>
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
-  <a href="#data">&nbsp; Data &nbsp;</a> |
   <a href="#presentation">&nbsp; Presentation &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
 </p>
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-This is a university project focused on acquisition and storing of data. In particular, the aim is to develop a music recommendation system for all users who want to learn an instrument. 
-In the first section, there are two functions for scraping information from websites and one for taking song information from Spotify, using API.
-Then there is an audio analysis for 3 instruments: bass, drums and piano. 
-In the third section, there is an analysis concerning dataset quality. Finally, there is the building of recommendation system based on Neo4j.
+than 50'000$ per 
+year based on socio-economic input attributes using supervised machine learning methods. The performance of several different models are evaluated with the class
+imbalance in the dataset addressed through equal size sampling. Feature selection is implemented using both multivariate filter and wrapper methods to identify the most important predictors of income. Classification models are validated using Iterated Holdout and K-fold cross validation methods.
+The results demonstrats that Bayesian models and tree-based models are the most effective for this task, with performance evaluated in terms of 
+accuracy, precision, recall, F measure, specificity and AUC.
 
-<a name="data"></a>
-## &#9741; &nbsp; Data
-You can find datasets used in the <a href="https://github.com/TStrada/Data-Management/tree/main/Dataset">Dataset</a> folder.<br> Audio file are not uploaded. 
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-You can find our presentation in the <a href="https://github.com/TStrada/Data-Management/tree/main/Report">Report</a> folder.<br>
+You can find the presentation in the <a href="https://github.com/TStrada/Machine-Learning/blob/main/TEAM_3.pdf">Report</a>
 
 
 <a name="aboutus"></a>
