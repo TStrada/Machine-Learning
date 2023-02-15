@@ -10,9 +10,7 @@
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-than 50'000$ per 
-year based on socio-economic input attributes using supervised machine learning methods. The performance of several different models are evaluated with the class
-imbalance in the dataset addressed through equal size sampling. Feature selection is implemented using both multivariate filter and wrapper methods to identify the most important predictors of income. Classification models are validated using Iterated Holdout and K-fold cross validation methods.
+This study aims to predict whether an individual earns more than 50'000$ per year based on socio-economic input attributes using supervised machine learning methods. The performance of several different models are evaluated with the class imbalance in the dataset addressed through equal size sampling. Feature selection is implemented using both multivariate filter and wrapper methods to identify the most important predictors of income. Classification models are validated using Iterated Holdout and K-fold cross validation methods.
 The results demonstrats that Bayesian models and tree-based models are the most effective for this task, with performance evaluated in terms of 
 accuracy, precision, recall, F measure, specificity and AUC.
 
